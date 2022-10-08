@@ -54,7 +54,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - Please focus hard on the naming of functions, classes, and variables.  Help your reader by using __descriptive names__ that can help you to remove redundant comments.
   - Single letter variable names are *old school* so please avoid them unless their life only spans a few lines.
   - Expand acronyms because `gcd()` is hard to understand but `greatest_common_divisor()` is not.
-  - Please follow the [Python Naming Conventions](https://pep8.org/#prescriptive-naming-conventions) or [CPP Naming Conventions] (https://google.github.io/styleguide/cppguide.html).
+  - Please follow the [Python Naming Conventions](https://pep8.org/#prescriptive-naming-conventions) or [Cpp Naming Conventions](https://google.github.io/styleguide/cppguide.html)
 
 #### Other Requirements for Submissions
 - If you are submitting code in the `project_euler/` directory, please also read [the dedicated Guideline](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md) before contributing to our Project Euler library.
