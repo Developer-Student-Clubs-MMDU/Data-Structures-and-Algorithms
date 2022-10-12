@@ -1,7 +1,22 @@
-//Implementation of Binary Search Algorithm
-
 //Binary Search Algorithm can only be applied to sorted list/array.
 //If array/list is not sorted we cannot apply Binary Search on that.
+
+/*
+Workin of Binary Search Algorithm
+Binary Search Algorithm is an example of divide and conquer technique
+
+In binary search we divide the array/list in two parts from the middle and compare the middle with the key(element to found).
+
+case1: If the middle element is equal to the key, then we return the index or the found message
+
+case2: If the middle element is greater than the key, then we work on the next half of the array/list as all the elements present before the middle element is going to be smaller than the middle element(because the array/list is sorted). We then work from middle index + 1 to the end of the array/list and repeat case 1.
+
+case3: If the middle element is smaller than the key, then we work on the first half of the array/list as all the elements present after the middle element is going to be greater than the middle element(because the array/list is sorted). We then work from first index to middle - 1 index of the array/list and repeat case 1.
+
+*/
+
+
+//Implementation of Binary Search Algorithm
 
 //Here we are implementing Binary Search using recursion
 #include <bits/stdc++.h>
