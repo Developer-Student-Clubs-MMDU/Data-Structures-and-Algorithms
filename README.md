@@ -59,3 +59,13 @@ We want your work to be readable by others; therefore, we encourage you to note 
 - If you are submitting code in the `project_euler/` directory, please also read [the dedicated Guideline](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md) before contributing to our Project Euler library.
 - The file extension for code files should be `.py` or `.cpp`
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
+
+
+
+## Contributors
+
+<a href="https://github.com/Developer-Student-Clubs-MMDU/Hacktoberfest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Developer-Student-Clubs-MMDU/Data-Structures-and-Algorithms" />
+</a>
+
+ 
